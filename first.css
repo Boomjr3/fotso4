@@ -1,0 +1,33 @@
+
+body{
+    margin: 0;
+    padding: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-image: url("plat2.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+ p span{
+    color: blue;
+ }
+h1 i{
+    color:orange;
+
+}
+
+button a{
+    color: orange;
+    font-size: 20px;
+}
+
+header bo{
+    font-size:50px;
+    color: orange;
+}
+ header h1{
+    color: orange;
+}
